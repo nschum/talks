@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx'>
+    <pages>
+        <page name='Properties'/>
+        <page name='Immutable'/>
+        <page name='Immutable [Lösung]'/>
+        <page name='Class in Struct'/>
+        <page name='Class in Struct [Schritt 1]'/>
+        <page name='Class in Struct [Lösung]'/>
+        <page name='Generics [1]'/>
+        <page name='Generics [2]'/>
+        <page name='Generics [3]'/>
+        <page name='Protokoll'/>
+        <page name='Protokoll-Extensions'/>
+        <page name='Protokoll-Extensions [2]'/>
+        <page name='Protokoll-Extensions [3]'/>
+        <page name='Typen'/>
+        <page name='Typen [2]'/>
+        <page name='Typen [3]'/>
+        <page name='Typen [Problem]'/>
+        <page name='Typen [Lösung 1]'/>
+        <page name='Typen [Lösung 2]'/>
+        <page name='Zuweisung [1]'/>
+        <page name='Zuweisung [2]'/>
+        <page name='Zuweisung [3]'/>
+        <page name='void'/>
+        <page name='automatische Optionals'/>
+        <page name='Dispatch [1]'/>
+        <page name='Dispatch [2]'/>
+    </pages>
+</playground>
